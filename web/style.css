@@ -1,0 +1,163 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 20px;
+}
+
+nav {
+    width: 1200px;
+    height: 70px;
+    line-height: 70px;
+    margin: 0 auto;
+    background-color: #eee;
+}
+
+nav ul {
+    width: 1200px;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav ul li {
+    list-style: none;
+    float: left;
+    width: 130px;
+    text-align: center;
+}
+
+.introduce {
+    width: 1200px;
+    height: 200px;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 25px;
+    margin: 15px auto 15px;
+    background-color: #F0A45E;
+}
+
+.main {
+    width: 1200px;
+    height: 400px;
+    margin: 15px auto;
+}
+
+.main .left {
+    width: 500px;
+    height: 400px;
+    float: left;
+    background-color: #eee;
+    font-size: 20px;
+    line-height: 30px;
+    text-indent: 2em;
+}
+
+.main .right {
+    width: 680px;
+    height: 400px;
+    float: right;
+    background-color: #eee;
+}
+
+.gallery-main {
+    width: 1200px;
+    height: 470px;
+    margin: 15px auto;
+}
+
+.gallery-main .left {
+    width: 590px;
+    height: 400px;
+    float: left;
+}
+
+.gallery-main .right {
+    width: 590px;
+    height: 400px;
+    float: right;
+}
+
+.title {
+    width: 1200px;
+    height: 100px;
+    line-height: 100px;
+    margin: 0 auto;
+    font-size: 30px;
+}
+
+.detail-main {
+    width: 1200px;
+    height: 470px;
+    margin: 15px auto;
+}
+
+.detail-main .left {
+    width: 590px;
+    height: 400px;
+    float: left;
+    font-size: 20px;
+}
+
+.detail-main .left h1 {
+    background-color: #eee;
+    padding: 5px;
+}
+
+.detail-main .right {
+    width: 590px;
+    height: 400px;
+    float: right;
+    font-size: 20px;
+}
+
+.detail-main .right h1 {
+    background-color: #eee;
+    padding: 5px;
+}
+
+.detail-main .right p {
+    background-color: #eee;
+    padding: 10px;
+}
+
+.title span {
+    display: inline-block;
+    background-color: #F0A45E;
+    height: 50px;
+    line-height: 50px;
+    padding: 10px 20px;
+}
+
+.refection-main {
+    background-color: #eee;
+    width: 1200px;
+    margin: 15px auto;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.model-main {
+    width: 1200px;
+    height: 470px;
+    margin: 15px auto;
+}
+
+.model-main .left {
+    width: 590px;
+    height: 400px;
+    float: left;
+}
+
+.model-main .right {
+    width: 590px;
+    height: 400px;
+    float: right;
+    font-size: 20px;
+}
+
+.tap {
+    display: inline-block;
+    background-color: #F0A45E;
+    height: 50px;
+    line-height: 50px;
+    padding: 10px 20px;
+}
